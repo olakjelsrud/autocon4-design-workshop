@@ -30,17 +30,17 @@ __If you are a returning user and don't know your password, click "Forgot your p
 
 6\. Click the name of your active pod, "ac4-workshop-podXX"
 
-![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-10-19/464212c2-8493-46cc-9536-3a829b58a70f/ascreenshot.jpeg?tl_px=0,0&br_px=3439,1922&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=255,183)
+![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-11-15/30f554fb-7f32-44a1-b5a2-8c0c7a99960c/ascreenshot.jpeg?tl_px=0,12&br_px=1821,1030&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=532,175)
 
 
 7\. Click "I/O" tab and look for the "Quick Access" section
 
-![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-10-19/ccc3ba15-f70f-4f76-85e7-f3c35cfc7ce6/ascreenshot.jpeg?tl_px=922,0&br_px=4362,1922&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=806,160)
+![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-11-15/4ac8847f-ba73-4af8-8618-93ce7c0d1ab6/ascreenshot.jpeg?tl_px=576,0&br_px=3053,1384&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=794,160)
 
 
 8\. Click on the link for "Pod Desktop Environment"
 
-![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-10-19/a6050841-d10c-499d-83f8-e900d2010c84/ascreenshot.jpeg?tl_px=922,0&br_px=4362,1922&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=770,271)
+![](https://ajeuwbhvhr.cloudimg.io/https://colony-recorder.s3.amazonaws.com/files/2025-11-15/362a5950-f9be-447f-a62b-866d0b69147a/ascreenshot.jpeg?tl_px=554,0&br_px=3031,1384&force_format=jpeg&q=100&width=1120.0&wat=1&wat_opacity=0.7&wat_gravity=northwest&wat_url=https://colony-recorder.s3.us-west-1.amazonaws.com/images/watermarks/FB923C_standard.png&wat_pad=857,266)
 
 
 9\. You will be presented with a virtual desktop for your dev machine
